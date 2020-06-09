@@ -1,4 +1,4 @@
-# cilte
+# CILTE
 CI-adminLTE integration boilerplate
 
 CodeIgniter4 : https://github.com/codeigniter4/CodeIgniter4
