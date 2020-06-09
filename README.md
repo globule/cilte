@@ -2,7 +2,6 @@
 CI-adminLTE integration boilerplate
 
 **[CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4)**
-
 **[ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE)**
 
 To-do:
